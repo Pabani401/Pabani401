@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on collaborating on exciting projects in tech and beyond.
 - 📫 How to reach me pabani832@gmail.com or 0701098927.
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: 
+  
 
 <!---
 Pabani401/Pabani401 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
