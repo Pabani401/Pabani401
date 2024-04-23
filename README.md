@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hey Everyone 👋, I'm Pabani Hansamali</h1>
 
-<h3 align="center">A passionate Software Engineering Student From </h3><br><br>
+<h3 align="center">A passionate Software Engineering Student  </h3><br><br>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
