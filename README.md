@@ -2,7 +2,7 @@
 - 👀 I’m Computer Science  Undergraduate at IIT.
 - 🌱 I’m currently learning Machine Learning and Data Mining.
 - 💞️ I’m looking to collaborate on collaborating on exciting projects in tech and beyond.
-- 📫 How to reach me pabani832@gmail.com or 0701098927.
+- 📫 How to reach me pabani832@gmail.com 
 - 😄 Pronouns: She/Her
   
 
