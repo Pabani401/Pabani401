@@ -5,7 +5,7 @@ Pabani401/Pabani401 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hey Everyone 👋, I'm Pabani Hansamali</h1>
-<div align="center"> <img src="https://www.canva.com/design/DAGDP_zgrhU/p8cGTeJhpKbMX11zPQVRlA/view?utm_content=DAGDP_zgrhU&utm_campaign=designshare&utm_medium=link&utm_source=editor"> </div>
+
 <h3 align="center">A passionate Software Engineer From </h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 - 🔭 I’m currently Studying  at  University Of Westminster
 - 🌱 I’m currently learning **Machine Learning and Data Mining**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Pabani401)
+- 👨‍💻 All of my projects are available at https://github.com/Pabani401
 
 - 💬 Ask me about **Software Developing**
 
