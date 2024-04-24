@@ -36,6 +36,6 @@ You can click the Preview link to take a look at your changes.
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pabani401&theme=vue-dark&hide_border=true" alt="Pabani401" /></p>
 
-<p><img align="center" src="![Pabani401's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pabani401&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)" alt="Pabani401" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pabani401&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Pabani401" /></p>
 
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
